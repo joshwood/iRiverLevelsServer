@@ -1,0 +1,9 @@
+{
+  "name": "iRiverLevelsServer",
+  "version": "0.1.0",
+  "dependencies": {
+    "express": "~3.5",
+    "request": "~2.33",
+    "xml2js": "~0.4.3"
+  }
+}
